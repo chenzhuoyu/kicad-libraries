@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CH424Q
+D 4kB FIFO Memory
+K FIFO
+F https://pdf1.alldatasheet.com/datasheet-pdf/view/1145648/WCH/CH424/+0145J7AXuwHb.KYNz+/datasheet.pdf
+$ENDCMP
+#
+#End Doc Library
